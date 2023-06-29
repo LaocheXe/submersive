@@ -1,0 +1,5 @@
+-brand (vehicle brands (nissan, ford, etc...))
+-vehicle_type (car, van, truck, etc...)
+vehicle (vehicle name, vehicle type, brand, specs, images, stock, asking price, etc...)
+-request_hold (request vehicle hold/order more stock)
+

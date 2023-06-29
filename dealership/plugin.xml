@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Dealership" lan="LAN_PLUGIN_NAME" version="0.1" date="2023-06-22" compatibility="2.0" installRequired="true" >
+	<author name="LaocheXe" url="https://github.com/LaocheXe/" />
+	<summary lan="LAN_PLUGIN_SUMMARY">For FiveM Car Dealerships</summary>
+	<description lan="LAN_OLUGIN_DESCRIPTION">Created for Mosley's Car Dealership, for FiveM server Submersive</description>
+	<keywords>
+		<word>gaming</word>
+		<word>fivem</word>
+		<word>submersive</word>
+	</keywords>
+	<category>content</category>
+	<copyright>GUN General Public License v3.0</copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="/images/dealership_v1_logox64.png" iconSmall="/images/dealership_v1_logox16.png" icon128="/images/dealership_v1_logox128.png" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	
+</e107Plugin>
